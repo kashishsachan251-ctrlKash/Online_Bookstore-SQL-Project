@@ -94,7 +94,7 @@ The project uses the following tables:
 
 ### SQL Queries Example
 
-![SQL Queries Screenshot](images/sql_queries.png)
+(https://github.com/kashishsachan251-ctrlKash/Online_Bookstore-SQL-Project/blob/main/Screenshot%202026-03-13%20185711.png)
 
 ### Assignment Solutions
 
